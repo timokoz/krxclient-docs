@@ -5,13 +5,16 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Installation](getting-started/installation.md)
 
-## Basics
+## Features
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Aimbot](features/aimbot.md)
+* [Misc](features/misc.md)
+* [Visuals & HUD](features/visuals-hud.md)
+* [Settings](features/settings.md)
+
+## Ultimate Features
+
+* [TAS](features/tas.md)
+* [Avoid](features/avoid.md)
