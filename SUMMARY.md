@@ -16,5 +16,5 @@
 
 ## Ultimate Features
 
-* [TAS](features/tas.md)
 * [Avoid](features/avoid.md)
+* [TAS](features/tas.md)
