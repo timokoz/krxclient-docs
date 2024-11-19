@@ -1,7 +1,5 @@
 ---
 icon: crosshairs
-cover: https://krxclient.xyz/images/cover.png
-coverY: 0
 layout:
   cover:
     visible: true

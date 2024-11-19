@@ -16,4 +16,4 @@ Follow these steps to install KRX Client on your system:
 3. Launch KRX Client and log in with your credentials.
 
 ### Troubleshooting
-- If you encounter issues, check the [FAQ section](README.md#faq) or contact support on [Discord](https://discord.gg/z92rnB4kHm).
+- If you encounter issues, check the [FAQ section](README.md#faq) or contact support on [Discord](https://discord.gg/MwzsHadQAe).
