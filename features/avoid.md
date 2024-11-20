@@ -2,7 +2,7 @@
 icon: shield
 ---
 
-# Avoid
+# Gores bot
 
 The **Avoid** tab, exclusive to the Ultimate version of KRX Client, provides advanced tools to help you avoid danger, stay strategic, and maintain control during gameplay.
 

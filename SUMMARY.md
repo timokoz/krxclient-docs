@@ -16,5 +16,8 @@
 
 ## Ultimate Features
 
-* [Avoid](features/avoid.md)
+* [Gores Bot](features/avoid.md)
+    * [Blatant](features/goresbot/blatant.md)
+    * [Legit](features/goresbot/legit.md)
+    * [Fentbot](features/goresbot/fentbot.md)
 * [TAS](features/tas.md)
