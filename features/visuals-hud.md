@@ -65,4 +65,4 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 ---
 
 ## **Screenshot**
-![Visuals & HUD Menu](images/visuals-hud-menu.png)
+![Visuals & HUD Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/visuals-hud-menu.png)
