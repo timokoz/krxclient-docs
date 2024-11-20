@@ -2,83 +2,49 @@
 icon: shield
 ---
 
-# Gores bot
+# Gores Bot
 
-The **Avoid** tab, exclusive to the Ultimate version of KRX Client, provides advanced tools to help you avoid danger, stay strategic, and maintain control during gameplay.
-
----
-
-### **Screenshot**
-🚧 **TODO**: Add the Avoid tab menu screenshot here.
+The **Avoid** tab, exclusive to the Ultimate version of KRX Client, provides advanced versions of Gores Bots to help you avoid freezing.
 
 ---
 
-### **Features**
-
-#### **Avoid**
-- **Enable**: Toggles the Avoid feature on or off.
-- **Player Prediction**: Predicts and avoids player movements.
-- **NSIF**: Activates a specialized avoidance mechanism for advanced gameplay.
-- **AFK Protection**: Prevents being targeted while AFK.
+## **Screenshot**
+![Avoid Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/avoid-menu.png)
 
 ---
 
-#### **Settings**
-- **Hook Assistance**: Assists with hooking mechanisms.
-- **Direction Assistance**: Guides directional movement for avoidance.
-- **Check Ticks**: Sets the number of ticks for checking collisions.
-- **Kick in Ticks**: Determines the delay in ticks before kicking in the avoidance feature.
-- **Action Ticks**: Configures the number of action ticks for Avoid features.
+## **Gores Bot Types**
+In KRX, there are 4 types of Gores Bots, each working a little differently from the others:
+1. **Basic**  
+2. **[Legit](features/goresbot/legit.md)** ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
+3. **[Blatant](features/goresbot/blatant.md)** ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
+4. **[Fentbot](features/goresbot/fentbot.md)** ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
 
 ---
 
-#### **Rate Limiting**
-- **Enable**: Toggles rate-limiting for certain actions.
-- **Hook**: Limits hook-related actions.
-- **Direction**: Limits directional inputs.
-- **Hook Check**: Verifies hook-related limits.
-- **Unhook**: Restricts unhook actions.
-- **No Direction**: Limits directionless actions.
+## **Basic Gores Bot**
+The basic Gores Bot included with the free and premium version has no configurable settings and only uses directional keys for movement.  
+Overall, it’s a simple bot meant for basic use.
 
 ---
 
-#### **Miscellaneous**
-- **Drag Support**: Enables support for drag-based mechanics.
-- **Track Point**: Tracks specific points for better avoidance.
-- **Rehook Action**: Automatically rehooks in certain scenarios.
-- **Tile Distance**: Measures distance for tile-based avoidance.
+## **Legit Gores Bot** ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
+The Legit Bot is best for players who want to look legit while avoiding freeze. It avoids freezing with minimal changes to your inputs and allows for some configuration.  
+This bot can fail and partially depends on the skill of the user, which is part of what makes it "legit." However, it may cause a drop in FPS on some systems.  
+For more details, see [Legit Gores Bot](features/goresbot/legit.md).
 
 ---
 
-#### **Tiles**
-- **Teles**: Enables teleportation-related avoidance.
-- **Unfreeze**: Avoids tiles that cause unfreezing.
-- **Death Tiles**: Warns or avoids tiles that cause instant death.
-- **Ticks**: Configures the tick delay for tile-based interactions.
+## **Blatant Gores Bot** ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
+The Blatant Gores Bot is perfect for anyone who doesn’t want to fail and wants to easily complete even the hardest Gores maps. It’s very easy to configure.  
+One of the advantages of the Blatant Bot is that it keeps your tee safe above everything else. You can configure settings like aiming, limiting inputs, and how much the bot predicts based on your preferences.  
+For more details, see [Blatant Gores Bot](features/goresbot/blatant.md).
 
 ---
 
-#### **Aimbot (Avoid Integration)**
-- **Enable**: Toggles the Aimbot feature for Avoid mechanics.
-- **Auto Aim**: Automatically aims at targets.
-- **Aim Assist**: Provides directional assistance to your aim.
-- **Upward Aim**: Prioritizes upward aiming directions.
-- **Points**: Configures the number of aim points.
-- **Segments**: Sets the number of segments for aim predictions.
-- **FOV**: Adjusts the Field of View (FOV) for Aimbot.
-- **Check Ticks**: Configures the tick rate for aim checks.
+## **Fentbot** ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
+The Fentbot (fentanyl-themed bot) is best for advanced users. It’s a kind of auto-TAS bot that finds inputs using pathfinding to complete maps.  
+This bot focuses solely on following its path, so it might fail or perform sub-optimal moves at times. It is highly configurable and runs asynchronously, so while you play the map this bot finds inputs to complete it. It’s best used on KoG maps.  
+For more details, see [Fentbot](features/goresbot/fentbot.md).
 
 ---
-
-#### **Visuals**
-- **Track Point**: Enables visualization of tracking points.
-- **Aimbot**: Displays Aimbot-related visuals.
-- **Path**: Shows the predicted path for Avoid actions.
-
----
-
-### **Configuration**
-1. Open the **Avoid** tab in the client.
-2. Enable or disable specific features under sections like Avoid, Settings, Rate Limiting, and Miscellaneous.
-3. Adjust sliders (e.g., **Check Ticks**, **Action Ticks**, **Tile Distance**) for precision.
-4. Use Aimbot and Visuals settings to integrate avoidance mechanics with targeting assistance.
