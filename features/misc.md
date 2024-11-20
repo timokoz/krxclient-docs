@@ -16,12 +16,15 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 ## **Features**
 
 ### **Bots**
-- **Moonwalk**: Makes the player do a "moonwalk" when pressing both left and right keys by switching the movement direction back and forth.
-- **Auto Fire**: Automatically fires your weapon when holding the fire button.
-- **Auto Rehook**: After successfully hooking a player, if you keep holding the hook button, it automatically tries to rehook them.
-- **Auto Jump Save**: Automatically jumps to avoid going into freeze.
-- **Quick Stop**: Stops the player quickly and smoothly by adjusting movement direction to counter their current velocity.
-- **Avoid Freeze**: Helps avoid freeze zones by using left/right movement.
+- **Moonwalk**: Makes the player do a "moonwalk" when pressing both left and right keys by switching the movement direction back and forth.  
+- **Auto Fire**: Automatically fires your weapon when holding the fire button.  
+- **Auto Rehook**: After successfully hooking a player, if you keep holding the hook button, it automatically tries to rehook them.  
+- **Auto Jump Save**: Automatically jumps to avoid going into freeze.  
+- **Quick Stop**: Stops the player quickly and smoothly by adjusting movement direction to counter their current velocity.  
+- **Avoid Freeze**: Helps avoid freeze zones by using left/right movement.  
+- **Dummy Fly**: Your dummy automatically does hook fly with you, making the dummy hammer and hook too. ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)  
+- **Jet Ride**: Works like hook ride bot but with a jetpack. Control it with A/W/S/D. ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)  
+- **Auto Aled**: Automatically hammers when an aled is possible. ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)  
 
 ### **Protections**
 - **Random Timeout Seed**: Generates a new timeout seed before connecting to a server to avoid fingerprinting. Note: You cannot rejoin your old position after timing out with this enabled.
