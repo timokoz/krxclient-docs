@@ -1,4 +1,8 @@
 /features
+/goresbot
+* blatant
+* fentbot
+* легит
 
 * аим
 * авоид
