@@ -10,8 +10,8 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 
 ### **HUD**
 - **Features HUD**: Displays a HUD with enabled features for better gameplay awareness.
-- **Avoid HUD** (Ultimate only): Displays HUD elements with ticks, useful for debugging.
-- **TAS HUD** (Ultimate only): Displays a HUD with useful information for TAS (e.g., input, reload timer, jumps left, etc.).
+- **Avoid HUD**: Displays HUD elements with ticks, useful for debugging. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
+- **TAS HUD**: Displays a HUD with useful information for TAS (e.g., input, reload timer, jumps left, etc.). ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
 
 ### **Miscellaneous**
 - **Rainbow Tee**: Adds a rainbow-colored effect to your tee.
@@ -65,4 +65,4 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 ---
 
 ## **Screenshot**
-🚧 **TODO**: Add a screenshot of the Visuals & HUD menu here.
+![Visuals & HUD Menu](images/visuals-hud-menu.png)
