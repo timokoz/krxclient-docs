@@ -30,8 +30,18 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 ### **Mod Detector**
 - **Enable**: Tries to detect moderators or suspicious players on the server.
 
-#### **Fake Aim**
-- **Enable**: Simulates fake aiming behavior to mislead others.
+### **Fake Aim**
+- **Enable**: Turns on fake aim behavior to confuse or mislead other players.
+- **Send Always**: If enabled, the aim direction will be sent every tick to the server (looks smoother for others).
+- **Visible**: Shows the fake aim on your screen.
+
+#### **Modes**
+You can choose from different fake aim modes to suit your playstyle:
+1. **Robot Aim**: Updates your aim position only when hooking or firing.
+2. **Spinbot**: Rotates your aim rapidly in a spinning motion.
+3. **Random**: Moves your aim in random directions.
+4. **Fake Angles**: Aims in the opposite direction of your cursor.
+5. **Aimbot Troll Aim**: Always aims at the closest player.
 
 ### **Other**
 - **Change Name on Finish**: Automatically changes your name just before crossing the finish line.
