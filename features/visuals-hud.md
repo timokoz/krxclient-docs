@@ -8,12 +8,12 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 
 ---
 
-### **HUD**
+## **HUD**
 - **Features HUD**: Displays a HUD with enabled features for better gameplay awareness.
 - **Avoid HUD**: Displays HUD elements with ticks, useful for debugging. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
 - **TAS HUD**: Displays a HUD with useful information for TAS (e.g., input, reload timer, jumps left, etc.). ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
 
-### **Miscellaneous**
+## **Miscellaneous**
 - **Rainbow Tee**: Adds a rainbow-colored effect to your tee.
 - **Rainbow Hook**: Adds a rainbow-colored effect to your hook.
 - **Smoke Trail**: Adds a smoke trail effect behind your tee when using grenades.
@@ -21,7 +21,7 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 - **Custom Theme**: Enables a custom theme for the client.
 - **Fall Prediction**: Displays a prediction line showing where the tee will land.
 
-### **KoG**
+## **KoG**
 - **Show Frozen HUD**: Displays additional HUD information about the freeze status of tees in your team.
 - **Show Ping Circle Next to Names**: Displays a ping indicator next to player names.
 - **Use Skins Instead of Ninja Tees**: Displays custom skins instead of default ninja tees (when frozen).
@@ -32,7 +32,7 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 - **Show When You Are Last**: Displays a message when you or someone from your team is the last alive.
 - **Show Cursor in Free Spectate**: Displays your cursor while in free spectate mode.
 
-### **Aim Lines**
+## **Aim Lines**
 - **Draw Aim Lines**: Displays aim assist lines for various weapons.
 - **Self Only**: Limits aim lines to your own tee.
 - **Pistol**: Displays aim lines for pistols.
@@ -41,7 +41,7 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 - **Laser**: Displays aim lines for laser weapons.
 - **Alpha**: Adjusts the transparency of the aim lines.
 
-### **Bullet Lines**
+## **Bullet Lines**
 - **Draw Bullet Lines**: Displays bullet trajectory lines.
 - **Self Only**: Limits bullet trajectory lines to your tee.
 - **Pistol**: Displays bullet lines for pistols.
