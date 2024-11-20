@@ -8,6 +8,11 @@ The **TAS** tab in KRX Client Ultimate version is a beta feature designed for ad
 
 ---
 
+### **Screenshot**
+![TAS Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/tas-menu.png)
+
+---
+
 ### **Features**
 
 #### **TAS Core**
@@ -77,8 +82,3 @@ The **TAS** tab in KRX Client Ultimate version is a beta feature designed for ad
 3. Adjust sliders (e.g., TPS, Rewind Ticks, Forward Ticks) to suit your gameplay.
 4. Assign hotkeys for quick activation and control during gameplay.
 5. Save your configuration for future sessions.
-
----
-
-### **Screenshot**
-![TAS Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/tas-menu.png)

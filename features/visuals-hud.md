@@ -8,6 +8,11 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
 
 ---
 
+## **Screenshot**
+![Visuals & HUD Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/visuals-hud-menu.png)
+
+---
+
 ## **HUD**
 - **Features HUD**: Displays a HUD with enabled features for better gameplay awareness.
 - **Avoid HUD**: Displays HUD elements with ticks, useful for debugging. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
@@ -61,8 +66,3 @@ The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual ele
    - **Custom Theme**: Slightly adjusts menu colors, creating a significant visual effect. **Recommended: On** and tweak the settings for the best experience.
    - **KoG**: For KoG gameplay, most options in this section are incredibly useful. **Recommended: Enable most settings**, then adjust according to your preferences.
    - **Aim/Bullet Lines**: While not necessary for casual play, these are very useful for TAS or when making precise shots with weapons. **Recommended: Off for casual play**, **On for TAS or tight shots**.
-
----
-
-## **Screenshot**
-![Visuals & HUD Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/visuals-hud-menu.png)

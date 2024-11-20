@@ -9,6 +9,11 @@ Starting from the **Premium** tier, the Aimbot provides functionality for all we
 
 ---
 
+## **Screenshot**
+![Aimbot Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/aimbot-menu.png)
+
+---
+
 ## **Features**
 
 - **Enable**: Toggles the Aimbot on or off.
@@ -46,8 +51,3 @@ Starting from the **Premium** tier, the Aimbot provides functionality for all we
    - **Grenade Move Prediction**: Disable unless you have a powerful CPU and want to get most out of KRX Grenade Aimbot. ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)
    - **Edge Accuracy**: Set to maximum for consistent hooks or lower to appear more legitimate. ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)
    - **Min/Max Shoot Delay**: Keep default unless you know what adjustments you need to make. ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)
-
----
-
-## **Screenshot**
-![Aimbot Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/aimbot-menu.png)

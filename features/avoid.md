@@ -8,6 +8,11 @@ The **Avoid** tab, exclusive to the Ultimate version of KRX Client, provides adv
 
 ---
 
+### **Screenshot**
+🚧 **TODO**: Add the Avoid tab menu screenshot here.
+
+---
+
 ### **Features**
 
 #### **Avoid**
@@ -77,8 +82,3 @@ The **Avoid** tab, exclusive to the Ultimate version of KRX Client, provides adv
 2. Enable or disable specific features under sections like Avoid, Settings, Rate Limiting, and Miscellaneous.
 3. Adjust sliders (e.g., **Check Ticks**, **Action Ticks**, **Tile Distance**) for precision.
 4. Use Aimbot and Visuals settings to integrate avoidance mechanics with targeting assistance.
-
----
-
-### **Screenshot**
-🚧 **TODO**: Add the Avoid tab menu screenshot here.

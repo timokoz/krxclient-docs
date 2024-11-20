@@ -8,6 +8,11 @@ The **Settings** tab in the KRX Client allows you to configure hotkeys and fine-
 
 ---
 
+## **Screenshot**
+![Settings Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/settings-menu.png)
+
+---
+
 ## **Hotkeys**
 - **Aimbot**: Toggles the aimbot.  
 - **Aimbot Auto Hook**: Automatically hooks targets when Aimbot is enabled.  
@@ -55,8 +60,3 @@ The **Settings** tab in the KRX Client allows you to configure hotkeys and fine-
       - **Prediction Margin**: Choose a value based on your ping (e.g., for 50ms ping, set ~50). Setting higher values (>20) are recommended to avoid bot issues. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
    - **Balance Bot Offset**: Recommended value: ~2.  
    - **Hook Nearest FOV**: Recommended to set a lower FOV (e.g., 30) to reduce lag on low-end CPUs.  
-
----
-
-## **Screenshot**
-![Settings Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/settings-menu.png)

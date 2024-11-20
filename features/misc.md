@@ -8,6 +8,11 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 
 ---
 
+### **Screenshot**
+![Misc Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/misc-menu.png)
+
+---
+
 ### **Features**
 
 #### **Bots**
@@ -58,8 +63,3 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 1. Open the **Misc** tab in the client.
 2. Toggle the desired features in their respective sections (e.g., Bots, Protections, Troll).
 3. Adjust settings as required for optimal performance and gameplay experience.
-
----
-
-### **Screenshot**
-![Misc Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/misc-menu.png)
