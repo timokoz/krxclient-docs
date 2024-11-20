@@ -40,7 +40,7 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
     - **Bounces**: Determines how the laser bounces off walls:
         - **Least**: Selects a direction with the fewest bounces, ensuring quicker unfreezing.
         - **Most**: Selects a direction with the most bounces. Useful in TAS scenarios, as longer bounces result in faster reload times.
-    - **Silent**: Hides the laser from being visible to other players, allowing stealthy gameplay.
+    - **Silent**: Makes aim adjustments invisible on your screen while remaining visible to others.
     - **Points**: Configures the number of points considered when checking for unfreeze directions. Higher values provide more precise checks.
     - **Current Dir Ticks**: Sets how many ticks of the laser are used to calculate the current direction. Adjust for better accuracy.
     - **Ticks**: Defines how many ticks of the laser are analyzed when determining the best unfreeze direction.
