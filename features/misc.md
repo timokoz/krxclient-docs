@@ -34,6 +34,18 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 - **Leave on Mod Detection**: Automatically disconnects from the server if a potential moderator is detected.  
 - **Leave on Warn Detected**: Automatically disconnects from the server if a potential moderator or player who could report you is detected.  
 
+### **Auto Unfreeze** ![Premium](https://img.shields.io/badge/Premium-%23ffba00?style=flat-square)
+- **Enable**: Activates the Auto Unfreeze feature, which automatically shoots a laser at a wall to unfreeze you when you jump through freeze zones.
+- **Advanced Settings**: Enables more detailed configuration options for precise control.
+    - **Bounces**: Determines how the laser bounces off walls:
+        - **Least**: Selects a direction with the fewest bounces, ensuring quicker unfreezing.
+        - **Most**: Selects a direction with the most bounces. Useful in TAS scenarios, as longer bounces result in faster reload times.
+    - **Silent**: Hides the laser from being visible to other players, allowing stealthy gameplay.
+    - **Points**: Configures the number of points considered when checking for unfreeze directions. Higher values provide more precise checks.
+    - **Current Dir Ticks**: Sets how many ticks of the laser are used to calculate the current direction. Adjust for better accuracy.
+    - **Ticks**: Defines how many ticks of the laser are analyzed when determining the best unfreeze direction.
+    - **FOV**: Adjusts the field of view to determine the laser's targeting range.
+
 ### **Fake Aim**
 - **Enable**: Turns on fake aim behavior to confuse or mislead other players.
 - **Send Always**: If enabled, the aim direction will be sent every tick to the server (looks smoother for others).
