@@ -27,12 +27,12 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 - **Random Timeout Seed**: Generates a new timeout seed before connecting to a server to avoid fingerprinting. Note: You cannot rejoin your old position after timing out with this enabled.
 - **Version Spoofer**: Spoofs the client version/ID to bypass restrictions. If unsure, leave it off.
 
-### **Mod Detector**
-- **Enable**: Activates the mod detection feature to identify potential moderators or suspicious players on the server.
-- **Detect Based on Names**: Scans player names to detect known moderators or suspicious aliases.
-- **Detect Suspicious Players**: Flags players based on suspicious activity patterns.
-- **Leave on Mod Detected**: Automatically disconnects from the server if a moderator is detected.
-- **Leave on Warn Detected**: Automatically disconnects from the server if a warning is detected.
+### **Mod Detector**  
+- **Enable**: Turns on the Mod Detector feature to identify potential moderators or suspicious players on the server.  
+- **Detect by Names**: Scans player names for known moderators.  
+- **Detect Suspicious Players**: Scans player names to detect potential moderators or players who could report you.  
+- **Leave on Mod Detection**: Automatically disconnects from the server if a potential moderator is detected.  
+- **Leave on Warn Detected**: Automatically disconnects from the server if a potential moderator or player who could report you is detected.  
 
 ### **Fake Aim**
 - **Enable**: Turns on fake aim behavior to confuse or mislead other players.
@@ -66,13 +66,13 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 
 ### **ID Stealer**
 - **Enable**: Activates the ID Stealer feature, allowing you to copy another player’s information.
-- **Closest Player**: Automatically targets the closest player to steal their details.
+- **Closest Player**: If enabled, targets the closest player to copy their details. If disabled, selects a random player on the server.
 - **Steal Name**: Copies the targeted player’s name.
 - **Steal Clan**: Copies the targeted player’s clan name.
 - **Steal Skin**: Copies the targeted player’s skin.
 - **Steal Flag**: Copies the targeted player’s country flag.
 - **Steal Eye Emote**: Copies the targeted player’s eye emote expression.
-- **Stealer Speed**: Adjusts the interval (in seconds) for how frequently the feature updates the stolen details. The default is 20 seconds.
+- **Stealer Speed**: Adjusts the interval (in seconds) for how frequently the feature updates the stolen details.
 
 ### **Silent Walk**
 - **Enable**: Activates the Silent Walk feature, which hides certain indicators to make your actions less noticeable to other players.
