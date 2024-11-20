@@ -1,9 +1,10 @@
-
-/goresbot
+**/features**
+<br>
+*/goresbot*
 * blatant
 * fentbot
 * легит
-/features
+<br>
 * аим
 * авоид
 * прочее
