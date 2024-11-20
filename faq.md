@@ -1,6 +1,6 @@
 ---
 
-icon: help-circle
+icon: info-circle
 
 ---
 
