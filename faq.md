@@ -29,10 +29,7 @@ No, it’s a closed-source project. This helps keep it undetected and prevents t
 Your antivirus software might have removed it. Disable your antivirus and extract the folder again.
 
 ### **How do I install the client?**
-1. Download the zipped folder from [krxclient.xyz](https://krxclient.xyz).
-2. Extract it to a folder.
-3. Open the folder and launch **KRX Client.exe**.
-4. For Premium/Ultimate users, log in with your username.
+For detailed installation instructions, refer to our [Installation Guide](getting-started/installation.md).
 
 ---
 
@@ -40,11 +37,6 @@ Your antivirus software might have removed it. Disable your antivirus and extrac
 
 ### **Why don’t I see weapons in TAS?**
 You didn’t run the command `/showall`. Run it in the game console.
-
-### **How can I bind Avoid Freeze?**
-Use this command in the console (F1):  
-```bind key toggle krx_avoidfreeze 1 0```  
-Replace `key` with your desired key.
 
 ---
 
@@ -54,9 +46,6 @@ Replace `key` with your desired key.
 Ensure your config matches the recommended settings. If issues persist:
 1. Use the command `cl_prediction_margin 20`.
 2. Increase the value gradually up to 300 based on your ping.
-
-### **Why do I see "GET: SSL connect error" or timeout errors?**
-Change your IP address using a VPN or by restarting your router.
 
 ### **How can I avoid bans?**
 Avoid using blatant configs. Use legit configs shared by members in Discord. Adjust them for your playstyle.
@@ -84,7 +73,7 @@ Try using a VPN or restarting your router. If unresolved, contact support.
 ### **Crash: Vulkan Renderer Issues**
 Switch to OpenGL in your game settings. Vulkan is less stable on some systems.
 
-### **Crash or Missing Features**
+### **Crash or Missing files**
 Ensure your antivirus isn’t removing essential files. If the issue persists, join our Discord for support.
 
 ---
