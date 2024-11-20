@@ -2,7 +2,7 @@
 icon: stopwatch
 ---
 
-# TAS (Tool-Assisted Speedrun)
+# TAS (Tool-Assisted Speedrun) ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
 
 The **TAS** tab in the KRX Client Ultimate version is a beta feature designed for advanced tool-assisted gameplay, enabling precise and repeatable inputs.  
 For the smoothest TAS experience, we recommend using the `/showall` command upon joining a server.  
