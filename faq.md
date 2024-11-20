@@ -1,6 +1,6 @@
 ---
 
-icon: info-circle
+icon: book
 
 ---
 
