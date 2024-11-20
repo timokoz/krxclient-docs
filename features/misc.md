@@ -28,13 +28,18 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 - **Version Spoofer**: Spoofs the client version/ID to bypass restrictions. If unsure, leave it off.
 
 ### **Mod Detector**
-- **Enable**: Tries to detect moderators or suspicious players on the server.
+- **Enable**: Activates the mod detection feature to identify potential moderators or suspicious players on the server.
+- **Detect Based on Names**: Scans player names to detect known moderators or suspicious aliases.
+- **Detect Suspicious Players**: Flags players based on suspicious activity patterns.
+- **Leave on Mod Detected**: Automatically disconnects from the server if a moderator is detected.
+- **Leave on Warn Detected**: Automatically disconnects from the server if a warning is detected.
 
 ### **Fake Aim**
 - **Enable**: Turns on fake aim behavior to confuse or mislead other players.
 - **Send Always**: If enabled, the aim direction will be sent every tick to the server (looks smoother for others).
 - **Visible**: Shows the fake aim on your screen.
 - **Modes**: Determines how the fake aim behaves:
+  - **Mouse Pos**: Adjusts your aim to follow your mouse position, making the gores bot aimbot appear less blatant.
   - **Robot Aim**: Updates your aim position only when hooking or firing.
   - **Spinbot**: Rotates your aim rapidly in a spinning motion.
   - **Random**: Moves your aim in random directions.
@@ -60,10 +65,21 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 - **Chat Repeater**: Automatically repeats another player's chat message with alternating uppercase and lowercase letters (e.g., "MeSsAgE").
 
 ### **ID Stealer**
-- **Enable**: Copies another player’s name, clan, skin, flag, or eye emote based on your selected options.
+- **Enable**: Activates the ID Stealer feature, allowing you to copy another player’s information.
+- **Closest Player**: Automatically targets the closest player to steal their details.
+- **Steal Name**: Copies the targeted player’s name.
+- **Steal Clan**: Copies the targeted player’s clan name.
+- **Steal Skin**: Copies the targeted player’s skin.
+- **Steal Flag**: Copies the targeted player’s country flag.
+- **Steal Eye Emote**: Copies the targeted player’s eye emote expression.
+- **Stealer Speed**: Adjusts the interval (in seconds) for how frequently the feature updates the stolen details. The default is 20 seconds.
 
 ### **Silent Walk**
-- **Enable**: A funny "exploit" that hides your direction and jump arrows and makes your hook invisible.
+- **Enable**: Activates the Silent Walk feature, which hides certain indicators to make your actions less noticeable to other players.
+- **Direction**: Hides the directional arrows that show your movement direction.
+- **Jump**: Hides the jump arrow, making it harder for others to see when you’re jumping.
+- **Hook**: Spams an invisible hook at your aim direction. Keep in mind that hook reach is limited.
+- **Hook Closest**: Spams an invisible hook at the closest player. Keep in mind that hook reach is limited.
 
 ---
 
