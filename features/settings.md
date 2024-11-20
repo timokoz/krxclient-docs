@@ -37,11 +37,11 @@ The **Settings** tab in the KRX Client allows you to configure hotkeys and fine-
 
 ## **Settings**
 - **Teleport Prediction**: Enables teleport prediction for TAS or Gores Bot, otherwise teleports are replaced with freeze. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-- **Advanced Settings**: Unlocks advanced prediction settings for fine-tuning all KRX bots for maximum advantage:
-   - **Death Tile Prediction**: Predicts death tiles for bots, including TAS and Gores Bot. Otherwise, death tiles are ignored. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-   - **Move Restrictions Prediction**: Predicts air stoppers. Disabling this can significantly boost bot performance. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-   - **Player Loop**: Predicts tee-to-tee collisions. Disabling this only removes collision handling and can significantly boost bot performance. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-   - **Prediction Margin**: Adjusts the prediction margin. Higher values make you less affected by lag spikes but might make others appear laggier. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
+- **Advanced Settings**: Unlocks advanced prediction settings for fine-tuning all KRX bots for maximum advantage: ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)
+   - **Death Tile Prediction**: Predicts death tiles for bots, including TAS and Gores Bot. Otherwise, death tiles are ignored.  
+   - **Move Restrictions Prediction**: Predicts air stoppers. Disabling this can significantly boost bot performance.  
+   - **Player Loop**: Predicts tee-to-tee collisions. Disabling this only removes collision handling and can significantly boost bot performance.  
+   - **Prediction Margin**: Adjusts the prediction margin. Higher values make you less affected by lag spikes but might make others appear laggier.
 - **Balance Bot Offset**: Configures how aggressively the balance bot reacts to maintain balance. Higher values reduce movement corrections.  
 - **Hook Nearest FOV**: Sets the field of view for the **Hook Nearest Collision**"** feature.  
 
@@ -54,9 +54,9 @@ The **Settings** tab in the KRX Client allows you to configure hotkeys and fine-
 3. Adjust settings to suit your gameplay needs. Below are some **recommended configurations**:  
    - **Teleport Prediction**: Recommended to keep disabled unless using TAS. Don't enable when using the Gores Bot. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
    - **Advanced Settings**: Recommended disabled unless you know what you are doing. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-      - **Death Tile Prediction**: Recommended disabled as it slows bots but it's useful for TAS. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-      - **Move Restrictions Prediction**: Recommended enabled for casual play. Disable for significant performance boosts in bots. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-      - **Player Loop**: Recommended enabled for casual play. Disable for significant performance boosts in bots. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
-      - **Prediction Margin**: Choose a value based on your ping (e.g., for 50ms ping, set ~50). Setting higher values (>20) are recommended to avoid bot issues. ![Ultimate](https://img.shields.io/badge/Ultimate-%23f76d6d?style=flat-square)  
+      - **Death Tile Prediction**: Recommended disabled as it slows bots but it's useful for TAS.  
+      - **Move Restrictions Prediction**: Recommended enabled for casual play. Disable for significant performance boosts in bots.  
+      - **Player Loop**: Recommended enabled for casual play. Disable for significant performance boosts in bots.  
+      - **Prediction Margin**: Choose a value based on your ping (e.g., for 50ms ping, set ~50). Setting higher values (>20) are recommended to avoid bot issues.
    - **Balance Bot Offset**: Recommended value: ~2.  
    - **Hook Nearest FOV**: Recommended to set a lower FOV (e.g., 30) to reduce lag on low-end CPUs.  
