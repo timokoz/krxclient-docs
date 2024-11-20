@@ -81,4 +81,4 @@ The **TAS** tab in KRX Client Ultimate version is a beta feature designed for ad
 ---
 
 ### **Screenshot**
-🚧 **TODO**: Add the TAS tab menu screenshot here.
+![TAS Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/tas-menu.png)

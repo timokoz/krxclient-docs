@@ -62,4 +62,4 @@ The **Misc** tab in KRX Client offers a range of tools and features designed to 
 ---
 
 ### **Screenshot**
-🚧 **TODO**: Add the Misc tab menu screenshot here.
+![Misc Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/misc-menu.png)

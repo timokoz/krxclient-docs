@@ -49,4 +49,4 @@ The **Settings** tab in KRX Client allows you to configure hotkeys and fine-tune
 ---
 
 ### **Screenshot**
-🚧 **TODO**: Add the Settings tab menu screenshot here.
+![Settings Menu](https://raw.githubusercontent.com/Krixx1337/krxclient-docs/refs/heads/main/images/settings-menu.png)
