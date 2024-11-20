@@ -4,62 +4,65 @@ icon: eye
 
 # Visuals & HUD
 
-The **Visuals & HUD** tab in KRX Client allows you to enhance the visual elements of your game and customize the user interface (HUD) for better clarity, style, and gameplay precision.
+The **Visuals & HUD** tab in the KRX Client allows you to enhance the visual elements of your game and customize the user interface (HUD) for better clarity, style, and gameplay precision.
 
 ---
 
-### **Features**
+### **HUD**
+- **Features HUD**: Displays a HUD with enabled features for better gameplay awareness.
+- **Avoid HUD** (Ultimate only): Displays HUD elements with ticks, useful for debugging.
+- **TAS HUD** (Ultimate only): Displays a HUD with useful information for TAS (e.g., input, reload timer, jumps left, etc.).
 
-#### **HUD**
-- **Features HUD**: Displays additional HUD features.
-
-#### **Miscellaneous**
-- **Rainbow Tee**: Adds a rainbow color effect to your character's appearance.
-- **Rainbow Hook**: Adds a rainbow color effect to your hook.
-- **Smoke Trail**: Adds a smoke trail effect to projectiles.
+### **Miscellaneous**
+- **Rainbow Tee**: Adds a rainbow-colored effect to your tee.
+- **Rainbow Hook**: Adds a rainbow-colored effect to your hook.
+- **Smoke Trail**: Adds a smoke trail effect behind your tee when using grenades.
 - **Rainbow Menu**: Gives the menu interface a rainbow-colored theme.
-- **Custom Theme**: Enables the use of a custom theme for the client.
-- **Fall Prediction**: Shows a prediction line for character falls.
+- **Custom Theme**: Enables a custom theme for the client.
+- **Fall Prediction**: Displays a prediction line showing where the tee will land.
 
-#### **KoG (King of the Hill Gamemode)**
-- **Show Frozen HUD**: Displays additional HUD information when frozen.
+### **KoG**
+- **Show Frozen HUD**: Displays additional HUD information about the freeze status of tees in your team.
 - **Show Ping Circle Next to Names**: Displays a ping indicator next to player names.
-- **Use Skins Instead of Ninja Tees**: Displays custom skins instead of default ninja tees.
-- **Only Show After Joining a Team**: Enables HUD elements only after joining a team.
-- **Max Rows**: Adjusts the maximum number of HUD rows.
-- **Tee Size**: Adjusts the size of character icons in the HUD.
-- **Tees Right Alive Text**: Shows the number of alive players on the right side.
-- **Show When You Are Last**: Displays a message when you’re the last player alive.
-- **Show Cursor in Free Spectate**: Shows the cursor while in free spectate mode.
+- **Use Skins Instead of Ninja Tees**: Displays custom skins instead of default ninja tees (when frozen).
+- **Only Show After Joining a Team**: Displays the frozen HUD only after you’ve joined a team.
+- **Max Rows**: Adjusts the maximum number of rows shown in the HUD.
+- **Tee Size**: Adjusts the size of tee icons in the HUD.
+- **Tees Right Alive Text**: Displays the number of alive tees.
+- **Show When You Are Last**: Displays a message when you or someone from your team is the last alive.
+- **Show Cursor in Free Spectate**: Displays your cursor while in free spectate mode.
 
-#### **Aim Lines**
+### **Aim Lines**
 - **Draw Aim Lines**: Displays aim assist lines for various weapons.
-- **Self Only**: Limits aim lines to the local player.
-- **Pistol**: Displays aim lines for the pistol.
-- **Shotgun**: Displays aim lines for the shotgun.
+- **Self Only**: Limits aim lines to your own tee.
+- **Pistol**: Displays aim lines for pistols.
+- **Shotgun**: Displays aim lines for shotguns.
 - **Grenade**: Displays aim lines for grenades.
 - **Laser**: Displays aim lines for laser weapons.
 - **Alpha**: Adjusts the transparency of the aim lines.
 
-#### **Bullet Lines**
+### **Bullet Lines**
 - **Draw Bullet Lines**: Displays bullet trajectory lines.
-- **Self Only**: Limits bullet lines to the local player.
-- **Pistol**: Displays bullet lines for the pistol.
-- **Shotgun**: Displays bullet lines for the shotgun.
+- **Self Only**: Limits bullet trajectory lines to your tee.
+- **Pistol**: Displays bullet lines for pistols.
+- **Shotgun**: Displays bullet lines for shotguns.
 - **Grenade**: Displays bullet lines for grenades.
 - **Alpha**: Adjusts the transparency of the bullet lines.
 
 ---
 
-### **Configuration**
+## **Configuration**
+
 1. Open the **Visuals & HUD** tab in the client.
-2. Explore the different sections:
-   - Adjust HUD settings under the **HUD** section.
-   - Customize effects and visuals in **Miscellaneous** and **KoG**.
-   - Enable or modify **Aim Lines** and **Bullet Lines** for better in-game clarity.
-3. Use sliders for features like transparency (`Alpha`) and settings like `Tee Size`.
+2. Customize the settings. Here are some **recommended settings**:
+   - **Features HUD**: A very useful feature to display key features that greatly impact your gameplay. **Recommended: On**.
+   - **TAS HUD**: Displays vital information when making a TAS. **Recommended: On**.
+   - **Smoke Trail**: A fun and unique visual feature. It might be distracting during casual play, but for rendering demos, it’s highly recommended. **Use as needed**.
+   - **Custom Theme**: Slightly adjusts menu colors, creating a significant visual effect. **Recommended: On** and tweak the settings for the best experience.
+   - **KoG**: For KoG gameplay, most options in this section are incredibly useful. **Recommended: Enable most settings**, then adjust according to your preferences.
+   - **Aim/Bullet Lines**: While not necessary for casual play, these are very useful for TAS or when making precise shots with weapons. **Recommended: Off for casual play**, **On for TAS or tight shots**.
 
 ---
 
-### **Screenshot**
-🚧 **TODO**: Add the Visuals & HUD menu screenshot here.
+## **Screenshot**
+🚧 **TODO**: Add a screenshot of the Visuals & HUD menu here.
