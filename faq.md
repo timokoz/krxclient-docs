@@ -1,6 +1,6 @@
 ---
 
-icon: question-circle
+icon: help-circle
 
 ---
 
@@ -34,9 +34,6 @@ Your antivirus software might have removed it. Disable your antivirus and extrac
 3. Open the folder and launch **KRX Client.exe**.
 4. For Premium/Ultimate users, log in with your username.
 
-### **I see the error "Unable to continue running the code because VCRUNTIME140.dll is missing."**
-Install the required Visual C++ Redistributable from Microsoft: [Download Here](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-
 ---
 
 ## Usage
@@ -56,7 +53,7 @@ Replace `key` with your desired key.
 ### **Why do I fail with a blatant config?**
 Ensure your config matches the recommended settings. If issues persist:
 1. Use the command `cl_prediction_margin 20`.
-2. Increase the value gradually up to 100 based on your ping.
+2. Increase the value gradually up to 300 based on your ping.
 
 ### **Why do I see "GET: SSL connect error" or timeout errors?**
 Change your IP address using a VPN or by restarting your router.

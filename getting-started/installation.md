@@ -20,4 +20,4 @@ Follow these steps to easily install **KRX Client**:
 
 ## Troubleshooting
 - **Executable Missing**: If the `KRX Client` executable isn't visible, your antivirus software may have removed it. Disable real-time protection temporarily and extract the folder again.
-- **Other Issues**: For additional help, check the [FAQ section](faq.md) or contact our support team on [Discord](https://discord.gg/MwzsHadQAe).
+- **Other Issues**: For additional help, check the [FAQ section](../faq.md) or contact our support team on [Discord](https://discord.gg/MwzsHadQAe).
